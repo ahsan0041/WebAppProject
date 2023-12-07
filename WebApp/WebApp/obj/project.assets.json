@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ahsanali/Library/CloudStorage/OneDrive-Personal/Professional Work/Azure Developer Associate/Web Application Project/WebAppProject/WebApp/WebApp/WebApp.csproj",
+      "projectUniqueName": "/Users/ahsanali/Library/CloudStorage/OneDrive-Personal/Professional Work/Azure Developer Associate/MainProject/WebAppProject/WebApp/WebApp/WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "/Users/ahsanali/Library/CloudStorage/OneDrive-Personal/Professional Work/Azure Developer Associate/Web Application Project/WebAppProject/WebApp/WebApp/WebApp.csproj",
+      "projectPath": "/Users/ahsanali/Library/CloudStorage/OneDrive-Personal/Professional Work/Azure Developer Associate/MainProject/WebAppProject/WebApp/WebApp/WebApp.csproj",
       "packagesPath": "/Users/ahsanali/.nuget/packages/",
-      "outputPath": "/Users/ahsanali/Library/CloudStorage/OneDrive-Personal/Professional Work/Azure Developer Associate/Web Application Project/WebAppProject/WebApp/WebApp/obj/",
+      "outputPath": "/Users/ahsanali/Library/CloudStorage/OneDrive-Personal/Professional Work/Azure Developer Associate/MainProject/WebAppProject/WebApp/WebApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ahsanali/.nuget/NuGet/NuGet.Config"
